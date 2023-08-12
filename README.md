@@ -1,0 +1,1 @@
+# Node-Postgres-Sequelize-Boilerplate
